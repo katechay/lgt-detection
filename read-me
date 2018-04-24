@@ -1,0 +1,10 @@
+#VERSION 1: 4/16/18 9:02 PM COMPLETE
+#Take a given fasta file, extract identifier lines
+#Put data lines in a second, temporary, file to be read
+#From that file, output a line of data RE frequencies
+#VERSION 2: 4/21/18 5:03 PM COMPLETE
+#extend from version 1, use and keep track of rotating window
+#VERSION 3: 4/23/18 1:19 PM COMPLETE
+#extend from version 2, compare with data outside of window
+#VERSION 4:
+#extend from version 3, identify outlier sequences
